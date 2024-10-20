@@ -1,0 +1,8 @@
+Zadanie 1.
+Napisz program, który pobiera znak z klawiatury oraz wyświetla go na ekranie monitora
+Zadanie 2
+Napisz program, który pobiera dwa znaki z klawiatury oraz wyświetla je w odwrotnej kolejności na ekranie.
+Zadanie 3
+Napisz program wyświetlający trzy duże litery „KPU” na ekranie monitora w odstępach jednej sekundy.
+Zadanie 4
+Napisz program pobierający datę systemową. Używając Turbo Debuggera sprawdź wartości rejestrów przechowujących dzień, miesiąc oraz rok według opisu powyżej. Zawartości rejestrów przelicz do wartości dziesiętnych. Wynik przedstaw w sprawozdaniu.
